@@ -1,3 +1,1 @@
-jah podi
-?
-simas tar?
+FICHA DESCREVENDO SITUAÇÕES
