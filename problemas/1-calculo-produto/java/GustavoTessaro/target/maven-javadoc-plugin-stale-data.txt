@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/alunolages/Desktop/GustavoTessaro/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alunolages/Desktop/GustavoTessaro/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GustavoTessaro 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GustavoTessaro 1.0-SNAPSHOT API'
+com.mycompany.gustavotessaro
+C:\Users\alunolages\Desktop\GustavoTessaro\src\main\java = 1713535829392
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\allclasses-index.html = 1713792325977
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\allpackages-index.html = 1713792325981
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\copy.svg = 1713792326037
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\element-list = 1713792325909
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\help-doc.html = 1713792326022
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\index-all.html = 1713792326005
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\index.html = 1713792326008
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\jquery-ui.overrides.css = 1713792326087
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\member-search-index.js = 1713792325989
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\module-search-index.js = 1713792325984
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\overview-tree.html = 1713792325959
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\package-search-index.js = 1713792325986
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\script.js = 1713792326035
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\search.js = 1713792326041
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\stylesheet.css = 1713792326028
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\tag-search-index.js = 1713792325991
+C:\Users\alunolages\Desktop\GustavoTessaro\target\site\apidocs\type-search-index.js = 1713792325987
