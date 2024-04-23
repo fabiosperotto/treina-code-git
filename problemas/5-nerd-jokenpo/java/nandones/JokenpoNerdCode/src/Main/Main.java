@@ -54,7 +54,16 @@ public class Main {
             int jogada1 = input.nextInt();
             System.out.println("insira a "+ i + "a jogada de "+ player2+ ":");
             int jogada2 = input.nextInt();
-            defineVencedor(jogada1, jogada2, player1, player2);
+            defineVencedor(jogada1, jogada2, player1, player2);  
+        }
+        if(pontosPlayer1 == pontosPlayer2){
+            System.out.println("---------\n EMPATE!");
+        }
+        else if (pontosPlayer1 > pontosPlayer2){
+            System.out.println(player1 + "VENCEU!!!");
+        }
+        else if (pontosPlayer1 < pontosPlayer2){
+            System.out.println(player2 + "VENCEU!!!");
         }
     }
     
@@ -76,10 +85,6 @@ public class Main {
                 ){
             System.out.println("VITÓRIA DO "+ player1);
             pontosPlayer1++;
-        }
-        else{
-            System.out.println("VITÓRIA DO "+ player2);
-            pontosPlayer2++;
         }
     }
     
