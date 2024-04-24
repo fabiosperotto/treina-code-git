@@ -1,0 +1,16 @@
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\vanderluiz.exe
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\vanderluiz.deps.json
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\vanderluiz.runtimeconfig.json
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\vanderluiz.runtimeconfig.dev.json
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\vanderluiz.dll
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\ref\vanderluiz.dll
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\bin\Debug\net5.0\vanderluiz.pdb
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.csproj.AssemblyReference.cache
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.AssemblyInfoInputs.cache
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.AssemblyInfo.cs
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.csproj.CoreCompileInputs.cache
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.dll
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\ref\vanderluiz.dll
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.pdb
+C:\Source\treina-code-git\problemas\5-nerd-jokenpo\C#\vanderluiz\obj\Debug\net5.0\vanderluiz.genruntimeconfig.cache
