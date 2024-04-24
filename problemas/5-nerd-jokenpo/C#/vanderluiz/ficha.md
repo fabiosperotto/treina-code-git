@@ -14,8 +14,8 @@ A descrição do problema foi clara e objetiva, com exemplos de entrada e saída
 
 Use os comandos abaixo: 
 <ul>
-<li>instale o .NET framework 5 ou superior em https://learn.microsoft.com/pt-br/dotnet/core/install/windows?tabs=net80</li>
-<li>crie um projeto console novo e copie o codigo em program.cs ou baixe o projeto</li>
+<li>Instale o .NET framework 5 ou superior em https://learn.microsoft.com/pt-br/dotnet/core/install/windows?tabs=net80</li>
+<li>Crie um projeto console novo e copie o codigo em program.cs ou baixe o projeto</li>
 <li>Instale a extensão 'C# Dev Kit' ou 'C#' se estiver usando o vscoded</li>
-<li>abra o terminal e digite dotnet run ou aperte o botão run</li>
+<li>Abra o terminal e digite dotnet run ou aperte o botão run</li>
 </ul>
