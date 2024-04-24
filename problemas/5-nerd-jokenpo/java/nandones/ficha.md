@@ -10,4 +10,6 @@ há presença de variáveis estáticas para calcular o player que fez mais ponto
 Como rodar a solução:
 
 Abra o arquivo no netbeans > F6
-
+  OU
+com o arquivo *Main.java* em mãos, insira o comando *javac Main.java*, compilando e criando o arquivo *Main.class*
+agora insira *java Main.java* e isso iniciará a aplicação
