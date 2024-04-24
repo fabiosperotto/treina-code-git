@@ -50,9 +50,9 @@ public class Main {
                     + "tesoura(3)\n"
                     + "lagarto(4)\n"
                     + "spock(5)\n");
-            System.out.println("insira a "+ i + "a jogada de "+ player1+ ":");
+            System.out.println("insira a "+ (i+1) + "a jogada de "+ player1+ ":");
             int jogada1 = input.nextInt();
-            System.out.println("insira a "+ i + "a jogada de "+ player2+ ":");
+            System.out.println("insira a "+ (i+1) + "a jogada de "+ player2+ ":");
             int jogada2 = input.nextInt();
             defineVencedor(jogada1, jogada2, player1, player2);  
         }
@@ -85,6 +85,10 @@ public class Main {
                 ){
             System.out.println("VITÓRIA DO "+ player1);
             pontosPlayer1++;
+        }
+        else{
+            System.out.println("VITÓRIA DO "+ player2);
+            pontosPlayer2++;
         }
     }
     
