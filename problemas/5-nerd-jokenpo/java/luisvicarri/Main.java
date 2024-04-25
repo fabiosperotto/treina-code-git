@@ -1,3 +1,5 @@
+// author: Luis F Vicarri
+
 package Main;
 
 import java.util.Scanner;
