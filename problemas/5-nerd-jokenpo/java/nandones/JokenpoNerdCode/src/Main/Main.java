@@ -19,6 +19,18 @@ public class Main {
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.println("digite o numero de jogadas");
+        int rodadas = input.nextInt();
+        
+        for (int i = 0; i < rodadas; i++) {
+            
+            defineVencedor();  
+        }
+    }
+    
+    public static void defineVencedor(){
+        
+        Scanner input = new Scanner(System.in);
         
         System.out.println("""
                            REGRAS DO NERD JOKENPO:
@@ -35,60 +47,28 @@ public class Main {
                            SPOCK > PEDRA
                            ---------------------------------------------------
                            """);
-        System.out.println("INSIRA O NOME DO PLAYER 1:");
-        String player1 = input.nextLine();
-        System.out.println("INSIRA O NOME DO PLAYER 2:");
-        String player2 = input.nextLine();
-        
-        System.out.println("quantas rodadas serão jogadas?");
-        int rodadas = input.nextInt();
-        
-        for (int i = 0; i < rodadas; i++) {
-            System.out.println("utilize os números do teclado para jogar:\n"
-                    + "pedra(1)\n"
-                    + "papel(2)\n"
-                    + "tesoura(3)\n"
-                    + "lagarto(4)\n"
-                    + "spock(5)\n");
-            System.out.println("insira a "+ (i+1) + "a jogada de "+ player1+ ":");
-            int jogada1 = input.nextInt();
-            System.out.println("insira a "+ (i+1) + "a jogada de "+ player2+ ":");
-            int jogada2 = input.nextInt();
-            defineVencedor(jogada1, jogada2, player1, player2);  
-        }
-        if(pontosPlayer1 == pontosPlayer2){
-            System.out.println("---------\n EMPATE!");
-        }
-        else if (pontosPlayer1 > pontosPlayer2){
-            System.out.println(player1 + "VENCEU!!!");
-        }
-        else if (pontosPlayer1 < pontosPlayer2){
-            System.out.println(player2 + "VENCEU!!!");
-        }
-    }
-    
-    public static void defineVencedor(int jogada1, int jogada2, String player1, String player2){
-        if(jogada1 == jogada2){
-            System.out.println("EMPATE!!!");
+        System.out.println("digite ambas as jogadas separadas por um espaço:");
+        String jogada = input.nextLine();
+        String[] jogadas = jogada.split(" ");
+        if(jogadas[0].equalsIgnoreCase(jogadas[1])){
+            System.out.println("empate");
         }
         else if(
-                   (jogada1 == 1 && jogada2 == 4)
-                || (jogada1 == 1 && jogada2 == 3)
-                || (jogada1 == 2 && jogada2 == 1)
-                || (jogada1 == 2 && jogada2 == 5)
-                || (jogada1 == 3 && jogada2 == 2)
-                || (jogada1 == 3 && jogada2 == 4)
-                || (jogada1 == 4 && jogada2 == 2)
-                || (jogada1 == 4 && jogada2 == 5)
-                || (jogada1 == 5 && jogada2 == 3)
-                || (jogada1 == 5 && jogada2 == 1)
+                   (jogadas[0].equalsIgnoreCase("pedra") && jogadas[1].equalsIgnoreCase("lagarto"))
+                || (jogadas[0].equalsIgnoreCase("pedra") && jogadas[1].equalsIgnoreCase("tesoura"))
+                || (jogadas[0].equalsIgnoreCase("papel") && jogadas[1].equalsIgnoreCase("pedra"))
+                || (jogadas[0].equalsIgnoreCase("papel") && jogadas[1].equalsIgnoreCase("spock"))
+                || (jogadas[0].equalsIgnoreCase("tesoura") && jogadas[1].equalsIgnoreCase("papel"))
+                || (jogadas[0].equalsIgnoreCase("tesoura") && jogadas[1].equalsIgnoreCase("lagarto"))
+                || (jogadas[0].equalsIgnoreCase("lagarto") && jogadas[1].equalsIgnoreCase("papel"))
+                || (jogadas[0].equalsIgnoreCase("lagarto") && jogadas[1].equalsIgnoreCase("spock"))
+                || (jogadas[0].equalsIgnoreCase("spock") && jogadas[1].equalsIgnoreCase("tesoura"))
+                || (jogadas[0].equalsIgnoreCase("spock") && jogadas[1].equalsIgnoreCase("pedra"))
                 ){
-            System.out.println("VITÓRIA DO "+ player1);
-            pontosPlayer1++;
+            System.out.println("VITÓRIA DO JOGADOR 1");
         }
         else{
-            System.out.println("VITÓRIA DO "+ player2);
-            pontosPlayer2++;
+            System.out.println("VITÓRIA DO JOGADOR 2");
         }
     }
     
