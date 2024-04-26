@@ -11,5 +11,4 @@ int main(void){
         if(r3!=0 && r5!=0) printf("%d",i);
         printf("\n");
     }
-    scanf("");
 }
