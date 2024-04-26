@@ -1,0 +1,16 @@
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\bin\Debug\net5.0\Problema 1 - Cálculo do produto.exe
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\bin\Debug\net5.0\Problema 1 - Cálculo do produto.deps.json
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\bin\Debug\net5.0\Problema 1 - Cálculo do produto.runtimeconfig.json
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\bin\Debug\net5.0\Problema 1 - Cálculo do produto.runtimeconfig.dev.json
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\bin\Debug\net5.0\Problema 1 - Cálculo do produto.dll
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\bin\Debug\net5.0\Problema 1 - Cálculo do produto.pdb
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.csproj.AssemblyReference.cache
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.AssemblyInfoInputs.cache
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.AssemblyInfo.cs
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.csproj.CoreCompileInputs.cache
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.dll
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\refint\Problema 1 - Cálculo do produto.dll
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.pdb
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\Problema 1 - Cálculo do produto.genruntimeconfig.cache
+D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\obj\Debug\net5.0\ref\Problema 1 - Cálculo do produto.dll
