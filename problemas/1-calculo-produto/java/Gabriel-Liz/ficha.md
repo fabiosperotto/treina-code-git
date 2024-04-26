@@ -4,8 +4,6 @@
 
 **Nome:** Gabriel-Liz   Gabriel Libano de Liz
 
-**Comentários:** Aqui informe uma explicação de como resolveu o problema e o que achou da descrição do problema, comentários, etc. É opcional.
-
 **Como rodar a solução**: 
 Esse codigo pode ser utilizado tanto em compiladores online ou compiladores em sua propria maquina, para compiladores online, basta copiar o codigo
 e digitar os numeros desejados no console do compilador, cada numero deve ser separado por cliques na tecla enter.
