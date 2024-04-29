@@ -13,5 +13,5 @@ Explicação do codigo: Inicialmente se pede o valo até qual o codigo ira perco
 
 Use o comando abaixo: 
 ```bash
-php programa.php argv1 argv2 argv3
+c# Program.cs
 ```
