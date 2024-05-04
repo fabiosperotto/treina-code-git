@@ -48,7 +48,7 @@ def calcPlay(sam, karen):
   else: return "Não quer jogar corretamente? Tudo bem..."
 
 sam = Jokenpo.NotPlaying
-karen = Jokenpo.NotPlaying
+karen = Jokenpo.NotPlaying 
 isGameOn = True
 
 rounds = int(input("Digite quantas vezes você quer jogar: "))
