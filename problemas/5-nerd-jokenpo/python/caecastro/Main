@@ -1,0 +1,31 @@
+def nerd_jokenpo():
+    # Lendo o número de partidas
+    n = int(input())
+    
+    # Definindo as regras do jogo
+    regras = {
+        'tesoura': ['papel', 'lagarto'],
+        'papel': ['pedra', 'spock'],
+        'pedra': ['lagarto', 'tesoura'],
+        'lagarto': ['spock', 'papel'],
+        'spock': ['tesoura', 'pedra']
+    }
+    
+    resultados = []
+
+    # Processando cada partida
+    for _ in range(n):
+        sam, karen = input().split()
+        if sam == karen:
+            resultados.append("empate")
+        elif karen in regras[sam]:
+            resultados.append("sam")
+        else:
+            resultados.append("karen")
+
+    # Imprimindo os resultados
+    for resultado in resultados:
+        print(resultado)
+
+# Testando com o exemplo fornecido
+nerd_jokenpo()

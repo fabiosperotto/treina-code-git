@@ -1,0 +1,18 @@
+def calcular_aumento(salario):
+    if salario <= 400.00:
+        percentual = 15
+    elif salario <= 800.00:
+        percentual = 12
+    elif salario <= 1200.00:
+        percentual = 10
+    elif salario <= 2000.00:
+        percentual = 7
+    else:
+        percentual = 4
+
+    novo_salario = salario * (1 + percentual / 100)
+    print(f"Você receberá: R$ {novo_salario:.2f} ({percentual}%)")
+
+# Testando com os exemplos fornecidos
+calcular_aumento(800.01)
+calcular_aumento(400.00)

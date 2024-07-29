@@ -1,0 +1,25 @@
+def intervalo_par_impar():
+    # Lendo os valores de a e b
+    a = int(input("Informe um número base para o intervalo: "))
+    b = int(input("Informe um número limite para o intervalo: "))
+
+    # Inicializando contadores
+    pares = 0
+    impares = 0
+
+    # Lendo números até que 0 seja informado
+    while True:
+        numero = int(input("Informe um número qualquer: "))
+        if numero == 0:
+            break
+        if a <= numero <= b:
+            if numero % 2 == 0:
+                pares += 1
+            else:
+                impares += 1
+
+    # Exibindo o resultado
+    print(f"Para o intervalo {a} e <= {b} existem {pares} números pares e {impares} números impares")
+
+# Testando com o exemplo fornecido
+intervalo_par_impar()
