@@ -4,7 +4,7 @@
 
 **Nome:** mdrmarcela, Marcela Matos Dutra Rodrigues. 
 
-**Comentários:** Fiz de uma maneira bem simples em Python. Primeiro peço o salário (considero que o usuário digita tudo corretamento, não tratei casos de entradas inválidas, como números negativos ou vírgula no lugar no ponto), por isso não criei uma validação, apenas um if que irá calcular o percentual de aumento. Depois mostro na tela o que ele receberá e o valor do aumento. 
+**Comentários:** Fiz de uma maneira bem simples em Python. Primeiro peço o salário (considero que o usuário digita tudo corretamente, não tratei casos de entradas inválidas, como números negativos ou vírgula no lugar do ponto), por isso não criei uma validação, apenas um if que irá calcular o percentual de aumento. Depois mostro na tela o que ele receberá e o valor do aumento. 
 
 **Como rodar a solução**: Considerando que você tem o Python e o VS Code instalados: 
 Pelo terminal:
