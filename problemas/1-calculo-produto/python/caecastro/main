@@ -1,7 +1,0 @@
-def calcular_valor(codigo, quantidade, valor_unitario):
-    valor_total = quantidade * valor_unitario
-    print(f"O produto ID {codigo} custa R$ {valor_total:.2f}")
-
-# Testando com os exemplos fornecidos
-calcular_valor(10, 2, 5.10)
-calcular_valor(2, 1, 15.10)
