@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Problema_1___Cálculo_do_produto
-build_property.ProjectDir = D:\Problema 1 - Cálculo do produto\Problema 1 - Cálculo do produto\
+build_property.ProjectDir = C:\Users\phxav\source\repos\treina-code-git\problemas\1-calculo-produto\c#\Markx16\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
