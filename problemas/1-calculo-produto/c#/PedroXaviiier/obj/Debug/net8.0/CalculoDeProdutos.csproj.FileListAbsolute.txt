@@ -1,0 +1,5 @@
+C:\Users\phxav\source\repos\treina-code-git\problemas\1-calculo-produto\c#\PedroXaviiier\obj\Debug\net8.0\CalculoDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phxav\source\repos\treina-code-git\problemas\1-calculo-produto\c#\PedroXaviiier\obj\Debug\net8.0\CalculoDeProdutos.AssemblyInfoInputs.cache
+C:\Users\phxav\source\repos\treina-code-git\problemas\1-calculo-produto\c#\PedroXaviiier\obj\Debug\net8.0\CalculoDeProdutos.AssemblyInfo.cs
+C:\Users\phxav\source\repos\treina-code-git\problemas\1-calculo-produto\c#\PedroXaviiier\obj\Debug\net8.0\CalculoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\phxav\source\repos\treina-code-git\problemas\1-calculo-produto\c#\PedroXaviiier\obj\Debug\net8.0\CalculoDeProdutos.sourcelink.json
